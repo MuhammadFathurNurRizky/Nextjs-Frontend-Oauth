@@ -13,7 +13,9 @@ npm install
 
 ## Want to learn more?
 if you want to learn about my technology that i use(Next.js) you can go to the site bellow:
-https://nextjs.org
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 ## help
 if you have problem you can comment on this repository and i will reply. enjoy :)
