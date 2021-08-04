@@ -1,5 +1,5 @@
 # Nextjs-Frontend-Oauth
-Ini Adalah sisi depan dari web apps menggunakan Oauth dengan menggunakan teknologi Next.js atau framework dari React.js.
+This is the frontend from my Oauth web application with use Next.js as the tech.
 
 ## Want to use my app?
 type on your command line like this:
