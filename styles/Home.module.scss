@@ -1,0 +1,17 @@
+.container {
+  font-size: 30px;
+
+  .navbar {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+  }
+
+  .text {
+    text-align: center;
+  }
+}
